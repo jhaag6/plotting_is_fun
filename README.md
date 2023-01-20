@@ -1,2 +1,3 @@
-# plotting_is_fun
-The code I use in R Studio for my favourite figures.
+# Repository contents
+
+This repository is full of the code I use in R Studio for my favourite figures.
